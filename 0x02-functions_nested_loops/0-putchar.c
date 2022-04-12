@@ -1,5 +1,5 @@
 #include <unistd.h>
-#include "putchar.c"
+#include "0-putchar.c"
 /**
 *main - Check description
 *Description: It prints _putchar followed by a new line
